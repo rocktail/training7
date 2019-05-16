@@ -3,3 +3,21 @@
 ################################################################################
 
 /.vs/WebApplicationTraining7/v16/Server/sqlite3
+# Compiled files
+*.tfstate
+*.tfstate.backup
+
+# Module directory
+.terraform/
+.envrc
+
+*.crt
+*.pfx
+*.csr
+*.key
+obj
+.vs
+bin
+*.pubxml
+*.user
+/WebApplicationTraining7/obj

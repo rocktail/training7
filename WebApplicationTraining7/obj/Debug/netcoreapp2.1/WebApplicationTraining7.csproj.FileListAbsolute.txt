@@ -1,3 +1,0 @@
-C:\temp\src2\WebApplicationTraining7\WebApplicationTraining7\obj\Debug\netcoreapp2.1\WebApplicationTraining7.csproj.CoreCompileInputs.cache
-C:\temp\src2\WebApplicationTraining7\WebApplicationTraining7\obj\Debug\netcoreapp2.1\WebApplicationTraining7.AssemblyInfoInputs.cache
-C:\temp\src2\WebApplicationTraining7\WebApplicationTraining7\obj\Debug\netcoreapp2.1\WebApplicationTraining7.AssemblyInfo.cs
